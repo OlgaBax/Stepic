@@ -4,6 +4,7 @@ public class FlipBit {
     public static void main(String[] args) {
         flipBit(15, 1);
         System.out.println();
+        System.out.println();
 
     }
 
